@@ -1,0 +1,26 @@
+.contenedor{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: yellow;
+   
+
+ }
+
+ img{
+    display: flex;
+    flex-direction: column;
+   margin-left: auto;
+   margin-right: auto;
+
+ }
+ ul
+ {
+ size: 25px;
+color: red;
+text-justify: distribute-all-lines;
+ }
+ 
+ a:link{
+    color: green;
+ }
